@@ -69,7 +69,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/at-ease.git
+git clone https://github.com/sheikabdulrafi/at-ease.git
 cd at-ease/backend
 npm install
 ```
@@ -112,7 +112,7 @@ npm start
 ## 👨‍💻 Author
 
 **Sk. Abdulraffi**  
-GitHub: [@yourusername](https://github.com/yourusername)  
+GitHub: [@yourusername](https://github.com/sheikabdulrafi)  
 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
 Project for learning & showcasing full-stack skills.
 
