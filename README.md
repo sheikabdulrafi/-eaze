@@ -69,8 +69,8 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/sheikabdulrafi/at-ease.git
-cd at-ease/backend
+git clone https://github.com/sheikabdulrafi/-eaze.git
+cd -ease/backend
 npm install
 ```
 
