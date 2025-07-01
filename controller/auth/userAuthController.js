@@ -1,4 +1,4 @@
-import { User } from "../../Schemas/User.js";
+import { User } from "../../Schemas/user.js";
 import jwt from "jsonwebtoken";
 import { sendEmail } from "../../uitls/sendEmail.js";
 import { getOtpEmailTemplate } from "../../uitls/emailTemplates.js";
